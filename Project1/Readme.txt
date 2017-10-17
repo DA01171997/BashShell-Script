@@ -4,6 +4,7 @@
 //Author's Github: https://github.com/DA01171997
 //Project: Mini Bash Shell Script Programs
 //Project Idea's Author: Thomas Nguyen
+//Project Idea's Author's email: thonguyen@fullerton.edu
 //Date last Modified: 10/17/2017 
 //Source Files in this program: stars.sh calc.sh hello.sh shiftCase.sh getAbsPath.sh
 //Compile and execute program in Bash Shell. Type ./<scripthere> in to respective directory's terminal. 

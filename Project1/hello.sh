@@ -6,6 +6,7 @@
 #Author's Github: https://github.com/DA01171997
 #Project: Sends message respective to time to user. 
 #Project Idea's Author: Thomas Nguyen
+#Project Idea's Author's email: thonguyen@fullerton.edu
 #Date last Modified: 10/17/2017 
 #Compile and execute program in Bash Shell. Type ./hello.sh in to respective directory's terminal. 
 
